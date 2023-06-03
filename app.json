@@ -1,9 +1,9 @@
 {
-    "name": "rgnk wabot",
+    "name": "Leon bot",
     "description": "WhatsApp public/user bot",
     "logo": "",
     "keywords": ["WhatsApp"],
-    "repository": "https://github.com/souravkl11/raganork-md",
+    "repository": "https://github.com/Leongamer001/raganork-md",
     "website":   "https://raganork.ml",
     "success_url": "https://raganork.ml",
     "stack": "container",
@@ -41,7 +41,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"Raganork pack;Author name"
+            "value":"LEON pack;Author name"
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -51,12 +51,12 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"LEON"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"Raganork;Souravkl11;https://i.imgur.com/YchATyT.jpeg"
+            "value":"LEON;Leongamer001;https://i.imgur.com/YchATyT.jpeg"
         },
         "MODE": {
             "description": "Private or public",
